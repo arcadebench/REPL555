@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "grape", "grape\grape.cppproj", "{B34F04D9-C320-4894-ACDC-D17D7383CAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34F04D9-C320-4894-ACDC-D17D7383CAB2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B34F04D9-C320-4894-ACDC-D17D7383CAB2}.Debug|AVR.Build.0 = Debug|AVR
+		{B34F04D9-C320-4894-ACDC-D17D7383CAB2}.Release|AVR.ActiveCfg = Release|AVR
+		{B34F04D9-C320-4894-ACDC-D17D7383CAB2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
